@@ -1,0 +1,8 @@
+!Texture
+Id: 21d0813a-5567-4d59-8c2f-cada7b251f7e
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: ../../../../../modelos_proyecto/bill bala/bill.fbm/killer_skin.png
+Type: !ColorTextureType
+    ColorKeyColor: {R: 255, G: 0, B: 255, A: 255}
+    PremultiplyAlpha: false

@@ -1,0 +1,7 @@
+!Texture
+Id: 21d919e4-357b-4e00-b5de-2fe131c58256
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: ../../../../../modelos_proyecto/New_YukaRock.png
+Type: !ColorTextureType
+    ColorKeyColor: {R: 255, G: 0, B: 255, A: 255}

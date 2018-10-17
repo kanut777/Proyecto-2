@@ -1,0 +1,51 @@
+!Model
+Id: 379bf1f1-5f83-40ca-9cf5-4357a392c338
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: ../../../../../../modelos_proyecto/Escenario/Mario/Mario (Black Suit)/MarioBlackSuit.FBX
+Skeleton: null
+PivotPosition: {X: 0.0, Y: 0.0, Z: 0.0}
+Materials:
+    b78111be6760840ddf8c6a143abb8aef:
+        Name: EyeMT
+        MaterialInstance:
+            Material: a92127da-c2c0-4360-ae56-0f5c7285ec2b:Models/MarioTraje/EyeMT
+    eb7c7987f20ca8e1bc014f13f1927a1e:
+        Name: EyeBallMT
+        MaterialInstance:
+            Material: c97179f0-99dc-4007-82e7-e4791521e08c:Models/MarioTraje/EyeBallMT
+    821c5b4c2fcf94ee46f577ae38d7a8a7:
+        Name: EyePupilLeftMT
+        MaterialInstance:
+            Material: 1f98f61f-f4f6-4a69-a871-a6f13c93a494:Models/MarioTraje/EyePupilLeftMT
+    f51401a3d314ac3065dfc973b08ee440:
+        Name: EyePupilRightMT
+        MaterialInstance:
+            Material: 4da3600d-b3ac-4c1f-9bd0-af11cf1a7670:Models/MarioTraje/EyePupilRightMT
+    ff585e9614a05826a79f374fb318e949:
+        Name: FaceMT
+        MaterialInstance:
+            Material: 6718dd6e-f51e-47c1-8e57-0ba90f918077:Models/MarioTraje/FaceMT
+    8c21c246d9ebe7d0ce6a63e8014144a9:
+        Name: HairMT
+        MaterialInstance:
+            Material: 0734d98a-8632-443c-81dc-650f269048f1:Models/MarioTraje/HairMT
+    77430028b8e4610bb7a03e810844813a:
+        Name: HairFaceMT
+        MaterialInstance:
+            Material: 92b43ca6-da33-42f9-9161-0a8f543acce4:Models/MarioTraje/HairFaceMT
+    6c2817b843092369a2750921dfdc97d7:
+        Name: HandMT
+        MaterialInstance:
+            Material: b4661491-2e43-4817-8423-10db8a13293c:Models/MarioTraje/HandMT
+    97f47a8ed48c7c7bec132d1bff82e49d:
+        Name: BodyMT
+        MaterialInstance:
+            Material: 9a23fd71-9be8-4508-8f5e-70478f2747c4:Models/MarioTraje/BodyMT
+    8cfa6d417fd16f2afcd098b6482dc65c:
+        Name: CapMT
+        MaterialInstance:
+            Material: 85559166-30fc-45d5-b5d0-e9fd5f3cfcfc:Models/MarioTraje/CapMT
+Modifiers: {}
+~SourceHashes:
+    a5391520c9de9fe54c8ed6f3e67b63b0~../../../../../../modelos_proyecto/Escenario/Mario/Mario (Black Suit)/MarioBlackSuit.FBX: dde4ab128b74452d168a4098219fc70b

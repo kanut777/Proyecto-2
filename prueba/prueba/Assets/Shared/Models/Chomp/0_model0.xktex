@@ -1,0 +1,8 @@
+!Texture
+Id: 49e88d76-0182-43a6-9dc7-f0f9cb1aa30e
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: ../../../../../../modelos_proyecto/Escenario/Chomp/textures/0_model0.jpg
+Type: !ColorTextureType
+    ColorKeyColor: {R: 255, G: 0, B: 255, A: 255}
+    PremultiplyAlpha: false

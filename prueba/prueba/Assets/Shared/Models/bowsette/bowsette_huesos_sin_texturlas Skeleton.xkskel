@@ -1,0 +1,77 @@
+!Skeleton
+Id: 9029f653-5eac-46eb-bd2a-ff4059727112
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: ../../../../../../modelos_proyecto/bowsette/bowsette+animaciones/bowsette_huesos_sin_texturlas.fbx
+PivotPosition: {X: 0.0, Y: 0.0, Z: 0.0}
+Nodes:
+    0e48cbc31858d3f01398e77820e39512: {Name: RootNode, Depth: 0}
+    0c111f527a46e481e5443005ed112262: {Name: TDA Bowsette_mesh, Depth: 1}
+    364cda3a5edc71e4a9edc909bf12dcce: {Name: Hips, Depth: 1}
+    a3d7e7a8d2b9f148122985b601c64ae9: {Name: Spine, Depth: 2}
+    b2e1a3f1b0887d308d1614b7b6604897: {Name: Spine1, Depth: 3}
+    fa02b15070d79cae77d619c9107ec786: {Name: Spine2, Depth: 4}
+    5d35c46af6bbfbcd8b6e7283f5188a47: {Name: Neck, Depth: 5}
+    d0f28fb3b34322d5490cab1e781a6233: {Name: Head, Depth: 6}
+    c7f80c4b52de9ea1e2d0349b8a59f594: {Name: HeadTop_End, Depth: 7}
+    07a9ace42a8336066fc560dbe26e1f8d: {Name: LeftShoulder, Depth: 5}
+    ee9d2e7329718d81bbe95ca5657ad84f: {Name: LeftArm, Depth: 6}
+    e030cd72b8f058050e7319170e1c3ef9: {Name: LeftForeArm, Depth: 7}
+    46695b5914d279cec78482a888f450fe: {Name: LeftHand, Depth: 8}
+    d590a5c7feb137ae5d18d1494a7da5e0: {Name: LeftHandThumb1, Depth: 9}
+    be2abb63a2f0f90bd7d559189b93f577: {Name: LeftHandThumb2, Depth: 10}
+    3fdc73c2e828a6142042252d9a12e740: {Name: LeftHandThumb3, Depth: 11}
+    7ef6d1b407a80291c43b67d085a2a2ef: {Name: LeftHandThumb4, Depth: 12}
+    b9c2d413064eb6c34a80fe839708ceea: {Name: LeftHandIndex1, Depth: 9}
+    1065208c2e8e82c230e1fd210959e326: {Name: LeftHandIndex2, Depth: 10}
+    f286c435ad9c64d751d72b39848a0376: {Name: LeftHandIndex3, Depth: 11}
+    18f418dcafd59971d499c485dcbe22d0: {Name: LeftHandIndex4, Depth: 12}
+    3e66d3f5d9e20530d4c43808ff72cf28: {Name: LeftHandMiddle1, Depth: 9}
+    24c27e2436ead890eac3c3bad7bdeb21: {Name: LeftHandMiddle2, Depth: 10}
+    b8bf411342ef2a73beff329ac931ff7f: {Name: LeftHandMiddle3, Depth: 11}
+    7ec999a61dd62e8174e794ab0c35a8a9: {Name: LeftHandMiddle4, Depth: 12}
+    9d60df35877ee5e009b2553c97dab8bb: {Name: LeftHandRing1, Depth: 9}
+    82fd96f8cd8df9ef6e8568df5f34f356: {Name: LeftHandRing2, Depth: 10}
+    c80781790061af7c7d2c47c2cbf7e10b: {Name: LeftHandRing3, Depth: 11}
+    bd16edd3d8712006cb2aaed8bd16f3db: {Name: LeftHandRing4, Depth: 12}
+    7b23a287ab87ab0b56a41063b00a7640: {Name: LeftHandPinky1, Depth: 9}
+    bcd32eb3723a877c3ab515c71b28b519: {Name: LeftHandPinky2, Depth: 10}
+    8ef3eeea0b0cb622c9f3cb45e31e0fad: {Name: LeftHandPinky3, Depth: 11}
+    8c403996448bfbd0bf00b9a7c1e6e0df: {Name: LeftHandPinky4, Depth: 12}
+    40a3866cf130a193367d863e889f4789: {Name: RightShoulder, Depth: 5}
+    a82061bd28a551000a5df5078d1ddfc1: {Name: RightArm, Depth: 6}
+    c5d18cc27f9bd3f65e7a26feeb4aa127: {Name: RightForeArm, Depth: 7}
+    ec2486e3c4509caa777d910c35505945: {Name: RightHand, Depth: 8}
+    21b3eba6ab6a0e9d39fd1913ad981401: {Name: RightHandThumb1, Depth: 9}
+    560e666b9857ffe7bfe248b9a259680a: {Name: RightHandThumb2, Depth: 10}
+    50ff9a78c1a9af395757ce1629b86247: {Name: RightHandThumb3, Depth: 11}
+    9d7b8344c9676835e6c92d16cb1e9dfc: {Name: RightHandThumb4, Depth: 12}
+    ee213b0746dc118927b9826f211f435b: {Name: RightHandIndex1, Depth: 9}
+    2465735886a42cc368cb8d69c02e1a34: {Name: RightHandIndex2, Depth: 10}
+    39097b3fb5a3a17b2359a6a1ed8f34ce: {Name: RightHandIndex3, Depth: 11}
+    68f0148118b882a12f6f0e7ea2361723: {Name: RightHandIndex4, Depth: 12}
+    b95f3987a704d69e7b3a98686a1ca60c: {Name: RightHandMiddle1, Depth: 9}
+    c6c30b137e508810f61a995ee92e5505: {Name: RightHandMiddle2, Depth: 10}
+    b8dbc531411a49066396d1d276c23e0f: {Name: RightHandMiddle3, Depth: 11}
+    2088ce7ec4f697acc1dfd8c726c3b541: {Name: RightHandMiddle4, Depth: 12}
+    3c805b83d47a379f81786a6b0fdb3790: {Name: RightHandRing1, Depth: 9}
+    3ffd3457d165bd67305236fdec0be56b: {Name: RightHandRing2, Depth: 10}
+    f47d42a5b6470d9edc01e6942ebc6bc6: {Name: RightHandRing3, Depth: 11}
+    0fd3a20b5dafd7385800cfaec539057c: {Name: RightHandRing4, Depth: 12}
+    8b5d4300834d7ef288184c073dcdbb62: {Name: RightHandPinky1, Depth: 9}
+    52373bf74cde694a4802bc5d5cb101fd: {Name: RightHandPinky2, Depth: 10}
+    be50d6ab952520f8e1bf316217f03f36: {Name: RightHandPinky3, Depth: 11}
+    57b3e56d623c54bb4a97620fc74f744c: {Name: RightHandPinky4, Depth: 12}
+    565712a76c296e510efbe1ff633d24cd: {Name: LeftUpLeg, Depth: 2}
+    fd6f4638c5e3a44bee3ede70df6b70e9: {Name: LeftLeg, Depth: 3}
+    f1953b8db48dd57d274127fb68b0aedb: {Name: LeftFoot, Depth: 4}
+    523e2fefd75a0b3ca3c6c2f9ffaaf820: {Name: LeftToeBase, Depth: 5}
+    e20da43bb3caaba5b2d0208c7cea0cd7: {Name: LeftToe_End, Depth: 6}
+    0d419a78cc4ecdfcd11fc018dafcc413: {Name: RightUpLeg, Depth: 2}
+    88173867ee1c8f720ab20d59f5057c89: {Name: RightLeg, Depth: 3}
+    d6023aef98e54725d0201b51d765fa6e: {Name: RightFoot, Depth: 4}
+    fb2557cac41066e10ac06bf6c2cba73f: {Name: RightToeBase, Depth: 5}
+    077d717bfb8e9ff63c2fd91baf18d213: {Name: RightToe_End, Depth: 6}
+~SourceHashes:
+    ? b714fc5dc82468ce26461612f7d4b5ce~../../../../../../modelos_proyecto/bowsette/bowsette+animaciones/bowsette_huesos_sin_texturlas.fbx
+    : 9831430471324b019486cbc5e5d95414

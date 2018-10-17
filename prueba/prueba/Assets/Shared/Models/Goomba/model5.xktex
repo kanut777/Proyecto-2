@@ -1,0 +1,8 @@
+!Texture
+Id: 84842d2d-7993-4fb1-9094-35f5f1166591
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: ../../../../../../modelos_proyecto/Escenario/Goomba/Big Goomba/model5.png
+Type: !ColorTextureType
+    ColorKeyColor: {R: 255, G: 0, B: 255, A: 255}
+    PremultiplyAlpha: false

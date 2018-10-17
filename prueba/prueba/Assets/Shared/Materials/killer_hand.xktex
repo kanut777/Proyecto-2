@@ -1,0 +1,8 @@
+!Texture
+Id: 26b4f50a-5ed8-4a3b-8a3c-c3da1b724a7f
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: ../../../../../modelos_proyecto/bill bala/bill.fbm/killer_hand.png
+Type: !ColorTextureType
+    ColorKeyColor: {R: 255, G: 0, B: 255, A: 255}
+    PremultiplyAlpha: false

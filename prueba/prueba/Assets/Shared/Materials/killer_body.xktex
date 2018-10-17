@@ -1,0 +1,8 @@
+!Texture
+Id: 8ffca05c-4601-425f-b29b-f258969a7f9b
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: ../../../../../modelos_proyecto/bill bala/bill.fbm/killer_body.png
+Type: !ColorTextureType
+    ColorKeyColor: {R: 255, G: 0, B: 255, A: 255}
+    PremultiplyAlpha: false

@@ -1,0 +1,43 @@
+!Model
+Id: 8e6dcb25-9739-492c-b5a1-16e50b8ce94b
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: ../../../../../modelos_proyecto/bill bala/bill.fbx
+Skeleton: null
+PivotPosition: {X: 0.0, Y: 0.0, Z: 0.0}
+Materials:
+    cee818ea7891dde579e103c11deb1e31:
+        Name: mat2
+        MaterialInstance:
+            Material: 05fa84c1-bae4-4c95-acfa-fba9bf044ce9:Materials/mat2
+    f25440988dd717be092c6f17996bb6bd:
+        Name: mat1
+        MaterialInstance:
+            Material: 3bec8cac-972f-4ec4-86fb-5a081306f571:Materials/mat1
+    8b0378b8bcaf33ff444ac2ab4aa277f1:
+        Name: mat4
+        MaterialInstance:
+            Material: 278075cb-c476-4240-a0da-d742d0281641:Materials/mat4
+    d6b9d271747a3c37690e803a06a39ca6:
+        Name: mat3
+        MaterialInstance:
+            Material: 73b1a953-99ef-4ed2-b64a-96e9eab930b4:Materials/mat3
+    95ab58ca30375fa009e332924d84e1a3:
+        Name: mat5
+        MaterialInstance:
+            Material: 137e924f-b2d3-4bcb-b095-69783ed13cf0:Materials/mat5
+    6323b1a78bfb0c8757a088f60379ba0f:
+        Name: mat6
+        MaterialInstance:
+            Material: 48d7c1d6-b686-4e0b-ac08-a37adccc9210:Materials/mat6
+    e38d1003b84c68535f0d4e7223d584fa:
+        Name: mat7
+        MaterialInstance:
+            Material: e7728369-8379-4746-8331-ea669328678e:Materials/mat7
+    160d272c16d4146dea8cc8e1db7b5fb8:
+        Name: mat8
+        MaterialInstance:
+            Material: bcbe0f47-0977-4d99-bfc1-e2906bc9ac81:Materials/mat8
+Modifiers: {}
+~SourceHashes:
+    8e2b0061eb84d09dba857bb402f2743b~../../../../../modelos_proyecto/bill bala/bill.fbx: b81388305896bc8790cddbad003777e7

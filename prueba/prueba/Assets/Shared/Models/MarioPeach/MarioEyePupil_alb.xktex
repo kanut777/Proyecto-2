@@ -1,0 +1,8 @@
+!Texture
+Id: 0d577d5f-e013-4682-b428-ec2a08ef85a7
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: ../../../../../../modelos_proyecto/Escenario/Mario/Mario (Peach)/images/MarioEyePupil_alb.png
+Type: !ColorTextureType
+    ColorKeyColor: {R: 255, G: 0, B: 255, A: 255}
+    PremultiplyAlpha: false

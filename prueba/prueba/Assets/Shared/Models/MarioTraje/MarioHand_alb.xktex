@@ -1,0 +1,8 @@
+!Texture
+Id: 4a9db495-2626-4a11-9670-c7c473c5ca2f
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: ../../../../../../modelos_proyecto/Escenario/Mario/Mario (Black Suit)/images/MarioHand_alb.png
+Type: !ColorTextureType
+    ColorKeyColor: {R: 255, G: 0, B: 255, A: 255}
+    PremultiplyAlpha: false

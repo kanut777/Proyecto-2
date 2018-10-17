@@ -1,0 +1,42 @@
+!Package
+Id: 09bbf2b2-f768-4ad3-ba10-296c33b0907f
+SerializedVersion: {Assets: 0.0.4}
+Meta:
+    Name: prueba
+    Version: 1.0.0.0
+    Authors: []
+    Owners: []
+    RootNamespace: prueba
+    Dependencies:
+        -   Name: Xenko
+            Version: 3.0.0.5
+            RootAssets: []
+LocalDependencies: []
+Profiles:
+    -   Name: Shared
+        Platform: Shared
+        InheritProfiles: []
+        AssetFolders:
+            -   Path: Assets/Shared
+            -   Path: prueba.Game/Effects
+        ResourceFolders: []
+        OutputGroupDirectories: {}
+        ProjectReferences:
+            -   Id: 6d26b716-a49e-4908-98ac-812a57c6769d
+                Location: prueba.Game/prueba.Game.csproj
+                Type: Library
+    -   Name: Windows
+        Platform: Windows
+        InheritProfiles: []
+        AssetFolders:
+            -   Path: Assets/Windows
+        ResourceFolders: []
+        OutputGroupDirectories: {}
+        ProjectReferences:
+            -   Id: be1ac7a8-5fc0-420b-96b0-b3a4d8140232
+                Location: prueba.Windows/prueba.Windows.csproj
+                Type: Executable
+ExplicitFolders: []
+Bundles: []
+TemplateFolders: []
+RootAssets: []

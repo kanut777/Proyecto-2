@@ -1,0 +1,8 @@
+!Texture
+Id: b574d58d-3eb0-4111-a4ab-585e7d586946
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: ../../../../../../modelos_proyecto/Escenario/Torch/nohd/textures/wall-torch-diff.jpg
+Type: !ColorTextureType
+    ColorKeyColor: {R: 255, G: 0, B: 255, A: 255}
+    PremultiplyAlpha: false

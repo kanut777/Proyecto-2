@@ -1,0 +1,15 @@
+!Model
+Id: 36ecd86f-6786-4ca0-a81b-bd314f8a315d
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: ../../../../../../modelos_proyecto/Escenario/Bowser statue/model.fbx
+Skeleton: null
+PivotPosition: {X: 0.0, Y: 0.0, Z: 0.0}
+Materials:
+    5a5d6064199a22a0233515dca515e655:
+        Name: C
+        MaterialInstance:
+            Material: c907c3a5-2ce7-4904-933a-5e85dcb2a8c9:Models/Estatua bowser/C
+Modifiers: {}
+~SourceHashes:
+    2d69e95862a558e5222f3866d813244a~../../../../../../modelos_proyecto/Escenario/Bowser statue/model.fbx: e1a4754e3746afd77a0229b15a5a9362

@@ -1,0 +1,8 @@
+!Texture
+Id: 6168d19a-e4eb-451e-82e8-f0f2d75d3824
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: ../../../../../../modelos_proyecto/Escenario/Mario/Mario (Black Suit)/images/MarioFace_alb.png
+Type: !ColorTextureType
+    ColorKeyColor: {R: 255, G: 0, B: 255, A: 255}
+    PremultiplyAlpha: false

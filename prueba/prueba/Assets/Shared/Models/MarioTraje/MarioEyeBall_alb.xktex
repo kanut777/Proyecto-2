@@ -1,0 +1,8 @@
+!Texture
+Id: c3171339-b0dc-43be-a4ae-84d5d6770391
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: ../../../../../../modelos_proyecto/Escenario/Mario/Mario (Black Suit)/images/MarioEyeBall_alb.png
+Type: !ColorTextureType
+    ColorKeyColor: {R: 255, G: 0, B: 255, A: 255}
+    PremultiplyAlpha: false

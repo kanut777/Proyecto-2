@@ -1,0 +1,8 @@
+!Texture
+Id: 314a2e6b-3c91-42b6-9755-74a4662ede22
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: ../../../../../../../modelos_proyecto/boo/booSonrisaDemoniaca/textures/teresa_otherB.jpg
+Type: !ColorTextureType
+    ColorKeyColor: {R: 255, G: 0, B: 255, A: 255}
+    PremultiplyAlpha: false

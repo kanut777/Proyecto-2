@@ -1,0 +1,19 @@
+!Animation
+Id: 59cbbc9e-f662-4263-a77c-cc5242484795
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: ../../../Resources/Animation/Jump_End.fbx
+ClipDuration:
+    Enabled: false
+    StartAnimationTime: 0:00:00:00.0000000
+    EndAnimationTime: 0:00:30:00.0000000
+PivotPosition: {X: 0.0, Y: 0.0, Z: 0.0}
+RepeatMode: LoopInfinite
+Type: !StandardAnimationAssetType {}
+Skeleton: 2859463f-1ae9-4f04-8df9-6cd81d42b326:Models/mannequinModel Skeleton
+RootMotion: false
+PreviewModel: cff82565-2996-4e27-8c89-09d2ec31225f:Models/mannequinModel
+AnimationTimeMinimum: 0:00:00:00.0000000
+AnimationTimeMaximum: 0:00:00:00.4830000
+~SourceHashes:
+    ebe78a6d7747dc5b4f8c51b4211464c3~../../../Resources/Animation/Jump_End.fbx: 818906ede58fbbe43135bfd20ba0fea4

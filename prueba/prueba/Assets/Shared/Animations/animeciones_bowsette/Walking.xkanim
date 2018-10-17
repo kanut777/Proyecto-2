@@ -1,0 +1,19 @@
+!Animation
+Id: e74e848e-c097-4ed8-81cb-4735c28df832
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: ../../../../../../modelos_proyecto/bowsette/bowsette+animaciones/Walking.fbx
+ClipDuration:
+    Enabled: false
+    StartAnimationTime: 0:00:00:00.0000000
+    EndAnimationTime: 0:00:30:00.0000000
+PivotPosition: {X: 0.0, Y: 0.0, Z: 0.0}
+RepeatMode: LoopInfinite
+Type: !StandardAnimationAssetType {}
+Skeleton: 9029f653-5eac-46eb-bd2a-ff4059727112:Models/bowsette/bowsette_huesos_sin_texturlas Skeleton
+RootMotion: false
+PreviewModel: b5d7a5b5-bd50-47b7-a29a-372bff579bbd:Models/bowsette/bowsette_huesos_sin_texturlas_2
+AnimationTimeMinimum: 0:00:00:00.0000000
+AnimationTimeMaximum: 0:00:00:01.3670000
+~SourceHashes:
+    065beb7ab6d9da701f793df620dcf019~../../../../../../modelos_proyecto/bowsette/bowsette+animaciones/Walking.fbx: 4402069ba2fe56d1add0b94004b6a79d

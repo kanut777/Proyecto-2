@@ -1,0 +1,7 @@
+!Texture
+Id: 4dd1939b-4561-42a5-86de-6448d138c1e0
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: ../../../../../../../modelos_proyecto/boo/TeresaSonrojada/teresa.2.png
+Type: !ColorTextureType
+    ColorKeyColor: {R: 255, G: 0, B: 255, A: 255}

@@ -1,0 +1,8 @@
+!Texture
+Id: 166fa943-199e-41f3-8c69-37f7ab571382
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: ../../../../../../modelos_proyecto/Escenario/Mario/Mario (Peach)/images/MarioHair_alb.png
+Type: !ColorTextureType
+    ColorKeyColor: {R: 255, G: 0, B: 255, A: 255}
+    PremultiplyAlpha: false

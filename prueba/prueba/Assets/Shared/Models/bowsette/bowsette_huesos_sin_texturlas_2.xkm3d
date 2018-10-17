@@ -1,0 +1,100 @@
+!Model
+Id: b5d7a5b5-bd50-47b7-a29a-372bff579bbd
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: ../../../../../../modelos_proyecto/bowsette/bowsette+animaciones/bowsette_huesos_sin_texturlas.fbx
+Skeleton: 9029f653-5eac-46eb-bd2a-ff4059727112:Models/bowsette/bowsette_huesos_sin_texturlas Skeleton
+PivotPosition: {X: 0.0, Y: 0.0, Z: 0.0}
+Materials:
+    27a85d573e52d2d22a96b5b739ba6c0b:
+        Name: Material.007
+        MaterialInstance:
+            Material: 3c6f9e9b-2004-42b9-89b3-ba858a925a89:Models/bowsette/Material.007
+    61667b4cc691a9ac5dfe774ef93208f2:
+        Name: Material.008
+        MaterialInstance:
+            Material: 68c3b9b0-9ffc-4412-87b3-83754e35554e:Models/bowsette/Material.008
+    94882e0f3280dbf4ccf12fe6b638c733:
+        Name: Material.009
+        MaterialInstance:
+            Material: e5d312fe-0619-4e85-96da-955a442e206d:Models/bowsette/Material.009
+    08fe4670ee0c3dc60cf931b2996dd526:
+        Name: Material.010
+        MaterialInstance:
+            Material: 7a9f8522-6cf6-45c8-ae43-63f23d9d6ab3:Models/bowsette/Material.010
+    c24bf7267047cb45c739a20a1517f471:
+        Name: Material.011
+        MaterialInstance:
+            Material: 084883ef-a19c-4f18-af94-79681d66e845:Models/bowsette/Material.011
+    f915aaa11f75177985c483b15da4913d:
+        Name: Material.012
+        MaterialInstance:
+            Material: 091ea2b0-ba77-4178-9350-820b07954a4a:Models/bowsette/Material.012
+    451ad4d249d4ea893e9ec02604577792:
+        Name: Material.013
+        MaterialInstance:
+            Material: 3e9c9783-8a4d-4a2b-9fd4-db4aeccb2563:Models/bowsette/Material.013
+    3a159f1461d1b69c7c80ebc9357a8fcd:
+        Name: piel
+        MaterialInstance:
+            Material: 2a05463a-e3b3-42f0-aa26-0dd982d3c5ea:Models/bowsette/piel
+    9a42f90615655a78aba87118307202c0:
+        Name: Material.015
+        MaterialInstance:
+            Material: d6cde299-3e87-46f9-969b-37ab6a9a413d:Models/bowsette/Material.015
+    05d319239ab7c9d568abd2ecd7039abc:
+        Name: Material.014
+        MaterialInstance:
+            Material: 7b42068f-2389-4b7b-8e6a-b4f42fb0fc99:Models/bowsette/Material.014
+    ede90b936fe7cf92cb66a14e062c8ae1:
+        Name: pelo
+        MaterialInstance:
+            Material: a3a00c20-b0bc-4601-9e33-2fb8fb704c15:Models/bowsette/pelo
+    efbf327c6bd6036f222832426bcdcc13:
+        Name: Material
+        MaterialInstance:
+            Material: 688ad2a0-a17c-486f-8075-6a028524b4da:Models/bowsette/Material
+    c65b8b57fcc89bd07ce6c7cfb6603e64:
+        Name: Material.001
+        MaterialInstance:
+            Material: 650257ea-5427-4bd8-94ce-32a8fa29d82f:Models/bowsette/Material.001
+    9090a3c2c0eae7223cd8cd378c0c6710:
+        Name: Material.002
+        MaterialInstance:
+            Material: bb2428f0-8519-4569-9170-b7bccec1b3e7:Models/bowsette/Material.002
+    177eea0600675d1071da0973a456a14b:
+        Name: Material.003
+        MaterialInstance:
+            Material: 0597ad97-6d60-4693-9136-5926c66de0f7:Models/bowsette/Material.003
+    327c98ec5b8d007638cd042cda91a921:
+        Name: Material.005
+        MaterialInstance:
+            Material: 9b1ed2c5-52bc-4c00-95ab-43564183f69c:Models/bowsette/Material.005
+    8ffe13a3a92dc8be403e883599f4f739:
+        Name: Material.006
+        MaterialInstance:
+            Material: e1c675bb-86b4-45c2-bce3-548b71e2dc43:Models/bowsette/Material.006
+    54a6af15706895f33dd1455df3a88271:
+        Name: Material.016
+        MaterialInstance:
+            Material: ab26c230-9aff-41fe-8088-2df5c1488271:Models/bowsette/Material.016
+    8550333f3e4a88959eb75e22bdc3a563:
+        Name: Material.017
+        MaterialInstance:
+            Material: 1a94ccc6-4922-42c9-ab8a-f88e8451bc0a:Models/bowsette/Material.017
+    069cb1c1426b0605ae4188331de343a3:
+        Name: Material.018
+        MaterialInstance:
+            Material: 29fa1888-4c90-47df-9dc9-7bc8f795a78a:Models/bowsette/Material.018
+    7123f16657c85c5492e2829d1d8cc672:
+        Name: Material.019
+        MaterialInstance:
+            Material: 56bd46f8-bb39-4b4e-90a9-28c92d3dc2c5:Models/bowsette/Material.019
+    b188a4cba6d15d3635bfb3317b75c3dd:
+        Name: Material.020
+        MaterialInstance:
+            Material: da2339c2-bf17-43af-b4b1-b0b45efaa873:Models/bowsette/Material.020
+Modifiers: {}
+~SourceHashes:
+    ? 8aaafc744a5f4bc8e56c04fc91ff0ade~../../../../../../modelos_proyecto/bowsette/bowsette+animaciones/bowsette_huesos_sin_texturlas.fbx
+    : 9831430471324b019486cbc5e5d95414

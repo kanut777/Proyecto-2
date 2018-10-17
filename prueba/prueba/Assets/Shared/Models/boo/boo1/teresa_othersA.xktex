@@ -1,0 +1,8 @@
+!Texture
+Id: 099f36d4-a517-4db6-853c-696091671de3
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: ../../../../../../../modelos_proyecto/boo/booLenguaAfuera/textures/teresa_othersA.jpg
+Type: !ColorTextureType
+    ColorKeyColor: {R: 255, G: 0, B: 255, A: 255}
+    PremultiplyAlpha: false

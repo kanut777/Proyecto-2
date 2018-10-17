@@ -1,0 +1,8 @@
+!Texture
+Id: 53e0fcce-e9e8-4cc3-855a-c6dc0ff74331
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: "../../../../../../modelos_proyecto/Escenario/piraña sin tuberia/textures/boss_p_body.jpg"
+Type: !ColorTextureType
+    ColorKeyColor: {R: 255, G: 0, B: 255, A: 255}
+    PremultiplyAlpha: false

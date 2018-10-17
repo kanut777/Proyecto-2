@@ -1,0 +1,8 @@
+!Texture
+Id: b6d8824b-37bd-4c95-8e07-6e49a837e605
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: ../../../../../../modelos_proyecto/bowsette/Coldblast - TDA Bowsette/spike.png
+Type: !ColorTextureType
+    ColorKeyColor: {R: 255, G: 0, B: 255, A: 255}
+    PremultiplyAlpha: false

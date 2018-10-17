@@ -1,0 +1,8 @@
+!Texture
+Id: 98a35144-4724-4c28-b622-9948eac85a70
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: "../../../../../../modelos_proyecto/Escenario/Piraña Tuberia/packun_leaf3.png"
+Type: !ColorTextureType
+    ColorKeyColor: {R: 255, G: 0, B: 255, A: 255}
+    PremultiplyAlpha: false

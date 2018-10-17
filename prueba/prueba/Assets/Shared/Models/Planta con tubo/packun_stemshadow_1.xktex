@@ -1,0 +1,8 @@
+!Texture
+Id: 39abb48f-ad89-41e7-b5d1-d9f414be15b3
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: "../../../../../../modelos_proyecto/Escenario/Piraña Tuberia/packun_stemshadow_1.png"
+Type: !ColorTextureType
+    ColorKeyColor: {R: 255, G: 0, B: 255, A: 255}
+    PremultiplyAlpha: false

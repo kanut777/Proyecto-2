@@ -1,0 +1,8 @@
+!Texture
+Id: add0f797-226b-4d45-8784-866e80769c98
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: ../../../../../modelos_proyecto/bill bala/bill.fbm/killer_eye_around.png
+Type: !ColorTextureType
+    ColorKeyColor: {R: 255, G: 0, B: 255, A: 255}
+    PremultiplyAlpha: false

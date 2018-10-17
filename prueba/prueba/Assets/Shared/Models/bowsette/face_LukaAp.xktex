@@ -1,0 +1,8 @@
+!Texture
+Id: 25371f76-93a7-4c8c-9271-fbfe28d3e58b
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: ../../../../../../modelos_proyecto/bowsette/Coldblast - TDA Bowsette/tga/face_LukaAp.png
+Type: !ColorTextureType
+    ColorKeyColor: {R: 255, G: 0, B: 255, A: 255}
+    PremultiplyAlpha: false

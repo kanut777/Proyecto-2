@@ -1,0 +1,51 @@
+!Model
+Id: 49ede24f-73b9-4877-9182-c35e286840cc
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: ../../../../../../modelos_proyecto/Escenario/Goomba/Big Goomba/biggoomba.obj
+Skeleton: null
+PivotPosition: {X: 0.0, Y: 0.0, Z: 0.0}
+Materials:
+    b85e1ed91c905f385fa1432442b18075:
+        Name: 6
+        MaterialInstance:
+            Material: 8d99634a-946c-4144-a96e-9fc50f2c520f:Models/Goomba/6
+    69b1c92379060738bd3ce8472359e608:
+        Name: 5
+        MaterialInstance:
+            Material: 5181133c-9803-4e3e-b3e5-b7eba1d31ec9:Models/Goomba/5
+    9525a0eed91d0a0f08e5be3172192650:
+        Name: 4
+        MaterialInstance:
+            Material: 79e888c8-f661-4765-b0b5-c02c1e12bbae:Models/Goomba/4
+    0c4798335c7d9df575a8dd2c84be886b:
+        Name: 7
+        MaterialInstance:
+            Material: 7642ac30-1467-48b9-8083-6e280da3e6de:Models/Goomba/7
+    9e76d890ebf734325c3fff5a798db460:
+        Name: 3
+        MaterialInstance:
+            Material: 9189dfc2-100d-483c-a631-c3336acc9dd2:Models/Goomba/3
+    5429bb5ed71742cd3f59cb4e75160243:
+        Name: 8
+        MaterialInstance:
+            Material: bf15cc4c-264b-4764-b281-4c75526ae748:Models/Goomba/8
+    2e97545c7c7a4d642988302f8f8b914a:
+        Name: 9
+        MaterialInstance:
+            Material: 15654e82-01dc-4215-838b-5e8e3a3cfcc7:Models/Goomba/9
+    61db1841b9ffa76213df4dfc15e59b01:
+        Name: 0
+        MaterialInstance:
+            Material: 26a09c93-6989-4bbe-a8c1-29471f6aea3e:Models/Goomba/0
+    b2792f60f537c41f661fc405aa1977b8:
+        Name: 1
+        MaterialInstance:
+            Material: 8aa6d7bb-7c18-4923-b478-12b2cb519548:Models/Goomba/1
+    b95f77286d64bc03370086ad09bd290c:
+        Name: 2
+        MaterialInstance:
+            Material: 073526cd-d50e-4ade-9487-6b371bb466df:Models/Goomba/2
+Modifiers: {}
+~SourceHashes:
+    130b60cf4475acffeca0ba8a1a1848fa~../../../../../../modelos_proyecto/Escenario/Goomba/Big Goomba/biggoomba.obj: c696ba4c930bb9ee6182e8ef1cb446db

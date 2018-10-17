@@ -1,0 +1,20 @@
+!Model
+Id: 4d005fe1-5d3c-40a3-a41d-706bb7472fb2
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: ../../../../../modelos_proyecto/bowsette/malla.fbx
+Skeleton: null
+PivotPosition: {X: 0.0, Y: 0.0, Z: 0.0}
+ScaleImport: 0.5
+Materials:
+    5a4c92a698b703d146146fddd95305fa:
+        Name: Material.001
+        MaterialInstance:
+            Material: 3956b77e-8141-47c6-90e2-0b6d99d10f4f:Models/Material.001
+    82647c57339ad5ff75f9f4b08b1c1027:
+        Name: material
+        MaterialInstance:
+            Material: df2a7fd5-5156-4c6c-8f69-3261d3bf0791:Models/material
+Modifiers: {}
+~SourceHashes:
+    6da4c1237c23279cb5cac393c7f862c2~../../../../../modelos_proyecto/bowsette/malla.fbx: 24bf77cd20544b463aafbe6e6f50ff4f

@@ -1,0 +1,8 @@
+!Texture
+Id: 11d94b0c-6593-433e-a0c6-fa64fcd7aee4
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: ../../../../../../modelos_proyecto/Escenario/Torch/nohd/textures/wall-torch-n.jpg
+Type: !ColorTextureType
+    ColorKeyColor: {R: 255, G: 0, B: 255, A: 255}
+    PremultiplyAlpha: false

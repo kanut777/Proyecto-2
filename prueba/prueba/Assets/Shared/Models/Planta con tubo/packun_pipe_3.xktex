@@ -1,0 +1,8 @@
+!Texture
+Id: 7e92bd58-fd24-49d2-85b3-c2652c452935
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: "../../../../../../modelos_proyecto/Escenario/Piraña Tuberia/packun_pipe_3.png"
+Type: !ColorTextureType
+    ColorKeyColor: {R: 255, G: 0, B: 255, A: 255}
+    PremultiplyAlpha: false

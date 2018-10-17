@@ -1,0 +1,8 @@
+!Texture
+Id: 759b369c-e2d1-464e-870c-134d109f5ac3
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: ../../../../../../modelos_proyecto/Escenario/Bowser statue/textures/1_koopastatuebronze_spc.jpg
+Type: !ColorTextureType
+    ColorKeyColor: {R: 255, G: 0, B: 255, A: 255}
+    PremultiplyAlpha: false

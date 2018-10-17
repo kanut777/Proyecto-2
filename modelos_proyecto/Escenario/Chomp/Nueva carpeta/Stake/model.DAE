@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<COLLADA xmlns="http://www.collada.org/2005/11/COLLADASchema" version="1.4.1">
+  <asset>
+    <contributor>
+      <author>imthemomma47</author>
+      <authoring_tool>OpenCOLLADA for 3ds Max;  Version: 1.4.1;  Revision: exported;  Platform: x64;  Configuration: Release_Max2012_static</authoring_tool>
+    </contributor>
+    <created>2015-08-09T21:16:18</created>
+    <modified>2015-08-09T21:16:18</modified>
+    <unit name="inch" meter="0.0254"/>
+    <up_axis>Z_UP</up_axis>
+  </asset>
+  <library_effects>
+    <effect id="_">
+      <profile_COMMON>
+        <newparam sid="model0_png-surface">
+          <surface type="2D">
+            <init_from>model0_png</init_from>
+          </surface>
+        </newparam>
+        <newparam sid="model0_png-sampler">
+          <sampler2D>
+            <source>model0_png-surface</source>
+          </sampler2D>
+        </newparam>
+        <technique sid="common">
+          <blinn>
+            <emission>
+              <color>0 0 0 1</color>
+            </emission>
+            <ambient>
+              <color>0.588 0.588 0.588 1</color>
+            </ambient>
+            <diffuse>
+              <texture texture="model0_png-sampler" texcoord="CHANNEL1"/>
+            </diffuse>
+            <specular>
+              <color>0.9 0.9 0.9 1</color>
+            </specular>
+            <shininess>
+              <float>0</float>
+            </shininess>
+            <reflective>
+              <color>0 0 0 1</color>
+            </reflective>
+            <transparent opaque="A_ONE">
+              <color>1 1 1 1</color>
+            </transparent>
+            <transparency>
+              <float>1</float>
+            </transparency>
+          </blinn>
+        </technique>
+      </profile_COMMON>
+      <extra>
+        <technique profile="OpenCOLLADA3dsMax">
+          <extended_shader>
+            <apply_reflection_dimming>0</apply_reflection_dimming>
+            <dim_level>0</dim_level>
+            <falloff_type>0</falloff_type>
+            <index_of_refraction>1.5</index_of_refraction>
+            <opacity_type>0</opacity_type>
+            <reflection_level>3</reflection_level>
+            <wire_size>1</wire_size>
+            <wire_units>0</wire_units>
+          </extended_shader>
+          <shader>
+            <ambient_diffuse_lock>1</ambient_diffuse_lock>
+            <ambient_diffuse_texture_lock>1</ambient_diffuse_texture_lock>
+            <diffuse_specular_lock>0</diffuse_specular_lock>
+            <soften>0.1</soften>
+            <use_self_illum_color>0</use_self_illum_color>
+          </shader>
+        </technique>
+      </extra>
+    </effect>
+  </library_effects>
+  <library_materials>
+    <material id="_-material" name="_">
+      <instance_effect url="#_"/>
+    </material>
+  </library_materials>
+  <library_geometries>
+    <geometry id="geom-TopN_" name="TopN_">
+      <mesh>
+        <source id="geom-TopN_-positions">
+          <float_array id="geom-TopN_-positions-array" count="195">0.5144032 -4.955351 -2.172128 -3.519053 2.962168 0.1274453 -3.199373 3.316896 -1.582117 1.066903 -4.955349 -2.782784 0.3412563 -4.95535 -1.367035 -3.415845 3.276536 0.1674233 -2.073528 3.795338 -2.868521 -3.111438 3.613835 -1.4543 1.850707 -4.95535 -3.035379 -0.4423873 4.269474 -3.386592 -2.042481 4.068288 -2.673834 2.655802 -4.95535 -2.862229 1.257034 4.612011 -2.996608 -0.4954048 4.518127 -3.164388 3.266458 -4.95535 -2.309731 2.568616 4.73077 -1.802604 1.115258 4.842813 -2.794527 3.519053 -4.955349 -1.525925 3.140143 4.59375 -0.124973 2.357922 4.955351 -1.663347 3.345903 -4.955349 -0.7208316 2.818409 4.237868 1.585874 2.899627 4.825586 -0.07395864 2.793407 -4.955349 -0.1101765 1.690359 3.758889 2.871034 2.595218 4.488287 1.547769 2.009597 -4.955351 0.1424195 1.526263 4.033834 2.767299 0.05906113 3.28537 3.386592 1.204505 -4.955351 -0.03072743 -0.02081665 3.583995 3.257853 -1.6383 2.943985 2.995331 0.5938503 -4.95535 -0.583229 -1.631472 3.259308 2.887995 -2.947684 2.825763 1.80257 0.3412563 -4.95535 -1.367035 -2.874142 3.14677 1.756819 -3.519053 2.962168 0.1274453 -3.415845 3.276536 0.1674233 2.595218 4.488287 1.547769 2.899627 4.825586 -0.07395864 -0.258109 4.051061 0.04673789 2.357922 4.955351 -1.663347 1.526263 4.033834 2.767299 -0.02081665 3.583995 3.257853 -1.631472 3.259308 2.887995 -2.874142 3.14677 1.756819 -3.415845 3.276536 0.1674233 -3.111438 3.613835 -1.4543 -2.042481 4.068288 -2.673834 -0.4954048 4.518127 -3.164388 1.115258 4.842813 -2.794527 0.5938503 -4.95535 -0.583229 0.3412563 -4.95535 -1.367035 1.922928 -4.955349 -1.393352 0.5144032 -4.955351 -2.172128 1.204505 -4.955351 -0.03072743 2.009597 -4.955351 0.1424195 2.793407 -4.955349 -0.1101765 3.345903 -4.955349 -0.7208316 3.519053 -4.955349 -1.525925 3.266458 -4.95535 -2.309731 2.655802 -4.95535 -2.862229 1.850707 -4.95535 -3.035379 1.066903 -4.955349 -2.782784</float_array>
+          <technique_common>
+            <accessor source="#geom-TopN_-positions-array" count="65" stride="3">
+              <param name="X" type="float"/>
+              <param name="Y" type="float"/>
+              <param name="Z" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="geom-TopN_-normals">
+          <float_array id="geom-TopN_-normals-array" count="195">-0.8181427 -0.3338511 -0.468173 -0.9947361 -0.07538654 0.06940445 -0.9075999 0.0318124 -0.4186292 -0.5034981 -0.1897275 -0.8429075 -0.8981062 -0.4395299 0.01478835 -0.6701296 0.7258109 0.1553216 -0.587065 0.1757043 -0.7902422 -0.6231918 0.7775245 -0.08418705 -0.03400544 -0.04719247 -0.9983068 -0.1177689 0.3167366 -0.941174 -0.4643906 0.8457671 -0.2627152 0.4574695 0.05400851 -0.8875837 0.3717379 0.4169229 -0.8294494 -0.2367906 0.9124802 -0.3336317 0.8343109 0.08841351 -0.5441583 0.748262 0.4510574 -0.486468 3.05289e-5 0.9603167 -0.2789119 0.996977 0.04808424 -0.06102882 0.9114916 0.4112947 -0.004453504 0.1818091 0.976812 -0.113066 0.8997688 -0.05763991 0.4325435 0.8171859 0.30675 0.487967 0.261296 0.9577598 0.1200863 0.5676081 -0.2018623 0.7981683 0.4898759 0.1642281 0.8561839 0.217114 0.9080202 0.3582748 0.09779505 -0.3442972 0.9337534 0.06090081 0.8405838 0.5382471 0.02050867 0.02172942 0.9995536 -0.3763697 -0.4454889 0.8123334 -0.166609 0.7729485 0.6122026 -0.4618809 -0.08121385 0.8832159 -0.7356588 -0.4796925 0.4782271 -0.4053226 0.7232323 0.5591499 -0.8312142 -0.1167216 0.5435613 -0.8981062 -0.4395299 0.01478835 -0.5901684 0.7059547 0.3915728 -0.9947361 -0.07538654 0.06940445 -0.6701296 0.7258109 0.1553216 0.217114 0.9080202 0.3582748 0.261296 0.9577598 0.1200863 -0.2296471 0.9605866 0.1566386 0.1818091 0.976812 -0.113066 0.06090081 0.8405838 0.5382471 -0.166609 0.7729485 0.6122026 -0.4053226 0.7232323 0.5591499 -0.5901684 0.7059547 0.3915728 -0.6701296 0.7258109 0.1553216 -0.6231918 0.7775245 -0.08418705 -0.4643906 0.8457671 -0.2627152 -0.2367906 0.9124802 -0.3336317 3.05289e-5 0.9603167 -0.2789119 3.05176e-5 -1 3.05176e-5 3.05176e-5 -1 3.05176e-5 3.05176e-5 -1 3.05176e-5 3.05176e-5 -1 3.05176e-5 3.05176e-5 -1 3.05176e-5 3.05176e-5 -1 3.05176e-5 3.05176e-5 -1 3.05176e-5 3.05176e-5 -1 3.05176e-5 3.05176e-5 -1 3.05176e-5 3.05176e-5 -1 3.05176e-5 3.05176e-5 -1 3.05176e-5 3.05176e-5 -1 3.05176e-5 3.05176e-5 -1 3.05176e-5</float_array>
+          <technique_common>
+            <accessor source="#geom-TopN_-normals-array" count="65" stride="3">
+              <param name="X" type="float"/>
+              <param name="Y" type="float"/>
+              <param name="Z" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="geom-TopN_-map-2">
+          <float_array id="geom-TopN_-map-2-array" count="195">1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1</float_array>
+          <technique_common>
+            <accessor source="#geom-TopN_-map-2-array" count="65" stride="3">
+              <param name="R" type="float"/>
+              <param name="G" type="float"/>
+              <param name="B" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="geom-TopN_-map0">
+          <float_array id="geom-TopN_-map0-array" count="195">0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392 0.4980392</float_array>
+          <technique_common>
+            <accessor source="#geom-TopN_-map0-array" count="65" stride="3">
+              <param name="R" type="float"/>
+              <param name="G" type="float"/>
+              <param name="B" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="geom-TopN_-map1">
+          <float_array id="geom-TopN_-map1-array" count="195">0.9921875 0.7523193 0 0.8632813 0.7734375 0 0.8632813 0.7523193 0 0.9916992 0.7307129 0 0.9921875 0.7734375 0 0.859375 0.7734375 0 0.8632813 0.7307129 0 0.859375 0.7523193 0 0.9921875 0.7087402 0 0.8632813 0.7087402 0 0.859375 0.7307129 0 0.9921875 0.6862793 0 0.8632813 0.6862793 0 0.859375 0.7087402 0 0.9921875 0.6633301 0 0.8632813 0.6633301 0 0.859375 0.6862793 0 0.9921875 0.640625 0 0.8632813 0.640625 0 0.859375 0.6633301 0 0.9921875 0.6179199 0 0.8632813 0.6179199 0 0.859375 0.640625 0 0.9921875 0.595459 0 0.8632813 0.595459 0 0.859375 0.6179199 0 0.9921875 0.5734863 0 0.859375 0.595459 0 0.8632813 0.5734863 0 0.9921875 0.5515137 0 0.859375 0.5734863 0 0.8632813 0.5515137 0 0.9921875 0.5297852 0 0.859375 0.5515137 0 0.8632813 0.5297852 0 0.9921875 0.5078125 0 0.859375 0.5297852 0 0.8632813 0.5078125 0 0.859375 0.5078125 0 0.84375 0.7890625 0 0.8364258 0.8164063 0 0.7890625 0.7890625 0 0.8164063 0.8364258 0 0.8364258 0.7618408 0 0.8164063 0.7419434 0 0.7890625 0.734375 0 0.7612305 0.7419434 0 0.7412109 0.7618408 0 0.734375 0.7890625 0 0.7412109 0.8164063 0 0.7612305 0.8364258 0 0.7890625 0.84375 0 -0.15625 0.7890625 0 -0.1634521 0.8164063 0 -0.2109375 0.7890625 0 -0.1834717 0.8364258 0 -0.1634521 0.7618408 0 -0.1834717 0.7419434 0 -0.2109375 0.734375 0 -0.2382812 0.7419434 0 -0.2583008 0.7618408 0 -0.265625 0.7890625 0 -0.2583008 0.8164063 0 -0.2382812 0.8364258 0 -0.2109375 0.84375 0</float_array>
+          <technique_common>
+            <accessor source="#geom-TopN_-map1-array" count="65" stride="3">
+              <param name="S" type="float"/>
+              <param name="T" type="float"/>
+              <param name="P" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <vertices id="geom-TopN_-vertices">
+          <input semantic="POSITION" source="#geom-TopN_-positions"/>
+        </vertices>
+        <triangles material="__1" count="72">
+          <input semantic="VERTEX" source="#geom-TopN_-vertices" offset="0"/>
+          <input semantic="NORMAL" source="#geom-TopN_-normals" offset="1"/>
+          <input semantic="COLOR" source="#geom-TopN_-map0" offset="2" set="0"/>
+          <input semantic="TEXCOORD" source="#geom-TopN_-map1" offset="3" set="0"/>
+          <p>0 0 0 0 1 1 1 1 2 2 2 2 3 3 3 3 0 0 0 0 2 2 2 2 0 0 0 0 4 4 4 4 1 1 1 1 2 2 2 2 1 1 1 1 5 5 5 5 6 6 6 6 2 2 2 2 7 7 7 7 2 2 2 2 5 5 5 5 7 7 7 7 3 3 3 3 2 2 2 2 6 6 6 6 8 8 8 8 3 3 3 3 6 6 6 6 9 9 9 9 6 6 6 6 10 10 10 10 6 6 6 6 7 7 7 7 10 10 10 10 8 8 8 8 6 6 6 6 9 9 9 9 11 11 11 11 8 8 8 8 9 9 9 9 12 12 12 12 9 9 9 9 13 13 13 13 9 9 9 9 10 10 10 10 13 13 13 13 11 11 11 11 9 9 9 9 12 12 12 12 14 14 14 14 11 11 11 11 12 12 12 12 15 15 15 15 12 12 12 12 16 16 16 16 12 12 12 12 13 13 13 13 16 16 16 16 14 14 14 14 12 12 12 12 15 15 15 15 17 17 17 17 14 14 14 14 15 15 15 15 18 18 18 18 15 15 15 15 19 19 19 19 15 15 15 15 16 16 16 16 19 19 19 19 17 17 17 17 15 15 15 15 18 18 18 18 20 20 20 20 17 17 17 17 18 18 18 18 21 21 21 21 18 18 18 18 22 22 22 22 20 20 20 20 18 18 18 18 21 21 21 21 18 18 18 18 19 19 19 19 22 22 22 22 23 23 23 23 20 20 20 20 21 21 21 21 24 24 24 24 21 21 21 21 25 25 25 25 21 21 21 21 22 22 22 22 25 25 25 25 23 23 23 23 21 21 21 21 24 24 24 24 26 26 26 26 23 23 23 23 24 24 24 24 24 24 24 24 25 25 25 25 27 27 27 27 28 28 28 28 24 24 24 24 27 27 27 27 26 26 26 26 24 24 24 24 28 28 28 28 29 29 29 29 26 26 26 26 28 28 28 28 28 28 28 28 27 27 27 27 30 30 30 30 31 31 31 31 28 28 28 28 30 30 30 30 29 29 29 29 28 28 28 28 31 31 31 31 32 32 32 32 29 29 29 29 31 31 31 31 31 31 31 31 30 30 30 30 33 33 33 33 34 34 34 34 31 31 31 31 33 33 33 33 32 32 32 32 31 31 31 31 34 34 34 34 35 35 35 35 32 32 32 32 34 34 34 34 34 34 34 34 33 33 33 33 36 36 36 36 37 37 37 37 34 34 34 34 36 36 36 36 35 35 35 35 34 34 34 34 37 37 37 37 37 37 37 37 36 36 36 36 38 38 38 38 39 39 39 39 40 40 40 40 41 41 41 41 40 40 40 40 42 42 42 42 41 41 41 41 43 43 43 43 39 39 39 39 41 41 41 41 44 44 44 44 43 43 43 43 41 41 41 41 45 45 45 45 44 44 44 44 41 41 41 41 46 46 46 46 45 45 45 45 41 41 41 41 47 47 47 47 46 46 46 46 41 41 41 41 48 48 48 48 47 47 47 47 41 41 41 41 49 49 49 49 48 48 48 48 41 41 41 41 50 50 50 50 49 49 49 49 41 41 41 41 51 51 51 51 50 50 50 50 41 41 41 41 42 42 42 42 51 51 51 51 41 41 41 41 52 52 52 52 53 53 53 53 54 54 54 54 53 53 53 53 55 55 55 55 54 54 54 54 56 56 56 56 52 52 52 52 54 54 54 54 57 57 57 57 56 56 56 56 54 54 54 54 58 58 58 58 57 57 57 57 54 54 54 54 59 59 59 59 58 58 58 58 54 54 54 54 60 60 60 60 59 59 59 59 54 54 54 54 61 61 61 61 60 60 60 60 54 54 54 54 62 62 62 62 61 61 61 61 54 54 54 54 63 63 63 63 62 62 62 62 54 54 54 54 64 64 64 64 63 63 63 63 54 54 54 54 55 55 55 55 64 64 64 64 54 54 54 54</p>
+        </triangles>
+      </mesh>
+    </geometry>
+  </library_geometries>
+  <library_controllers>
+    <controller id="geom-TopN_-skin1">
+      <skin source="#geom-TopN_">
+        <bind_shape_matrix>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</bind_shape_matrix>
+        <source id="geom-TopN_-skin1-joints">
+          <Name_array id="geom-TopN_-skin1-joints-array" count="1">joint0</Name_array>
+          <technique_common>
+            <accessor source="#geom-TopN_-skin1-joints-array" count="1" stride="1">
+              <param name="JOINT" type="name"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="geom-TopN_-skin1-bind_poses">
+          <float_array id="geom-TopN_-skin1-bind_poses-array" count="16">1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</float_array>
+          <technique_common>
+            <accessor source="#geom-TopN_-skin1-bind_poses-array" count="1" stride="16">
+              <param name="TRANSFORM" type="float4x4"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="geom-TopN_-skin1-weights">
+          <float_array id="geom-TopN_-skin1-weights-array" count="1">1</float_array>
+          <technique_common>
+            <accessor source="#geom-TopN_-skin1-weights-array" count="1" stride="1">
+              <param name="WEIGHT" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <joints>
+          <input semantic="JOINT" source="#geom-TopN_-skin1-joints"/>
+          <input semantic="INV_BIND_MATRIX" source="#geom-TopN_-skin1-bind_poses"/>
+        </joints>
+        <vertex_weights count="65">
+          <input semantic="JOINT" source="#geom-TopN_-skin1-joints" offset="0"/>
+          <input semantic="WEIGHT" source="#geom-TopN_-skin1-weights" offset="1"/>
+          <vcount>1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1</vcount>
+          <v>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</v>
+        </vertex_weights>
+      </skin>
+    </controller>
+  </library_controllers>
+  <library_lights>
+    <light id="EnvironmentAmbientLight" name="EnvironmentAmbientLight">
+      <technique_common>
+        <ambient>
+          <color>0 0 0</color>
+        </ambient>
+      </technique_common>
+    </light>
+  </library_lights>
+  <library_images>
+    <image id="model0_png">
+      <init_from>./images/0_model0.png</init_from>
+    </image>
+  </library_images>
+  <library_visual_scenes>
+    <visual_scene id="MaxScene">
+      <node name="EnvironmentAmbientLight">
+        <instance_light url="#EnvironmentAmbientLight"/>
+      </node>
+      <node id="node-_01_-_TransN" name="_01_-_TransN" sid="joint0" type="JOINT">
+        <matrix>1 0 0 0 0 0 -1 0 0 1 0 0 0 0 0 1</matrix>
+        <extra>
+          <technique profile="OpenCOLLADA">
+            <cast_shadows>1</cast_shadows>
+            <primary_visibility>1</primary_visibility>
+            <receive_shadows>1</receive_shadows>
+            <secondary_visibility>1</secondary_visibility>
+          </technique>
+        </extra>
+      </node>
+      <node id="node-TopN_" name="TopN_">
+        <instance_controller url="#geom-TopN_-skin1">
+          <skeleton>#node-_01_-_TransN</skeleton>
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="__1" target="#_-material">
+                <bind_vertex_input semantic="CHANNEL1" input_semantic="TEXCOORD" input_set="0"/>
+              </instance_material>
+            </technique_common>
+          </bind_material>
+        </instance_controller>
+        <extra>
+          <technique profile="OpenCOLLADA">
+            <cast_shadows>1</cast_shadows>
+            <primary_visibility>1</primary_visibility>
+            <receive_shadows>1</receive_shadows>
+            <secondary_visibility>1</secondary_visibility>
+          </technique>
+        </extra>
+      </node>
+    </visual_scene>
+  </library_visual_scenes>
+  <scene>
+    <instance_visual_scene url="#MaxScene"/>
+  </scene>
+</COLLADA>

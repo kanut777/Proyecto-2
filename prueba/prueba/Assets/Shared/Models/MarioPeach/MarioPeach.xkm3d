@@ -1,0 +1,63 @@
+!Model
+Id: ec793bf1-0af4-403e-935a-be6ad8f51479
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: ../../../../../../modelos_proyecto/Escenario/Mario/Mario (Peach)/MarioPeach.FBX
+Skeleton: null
+PivotPosition: {X: 0.0, Y: 0.0, Z: 0.0}
+Materials:
+    1839e24ad009e77898011b75b836ec3f:
+        Name: EyeMT
+        MaterialInstance:
+            Material: 5a3a21de-771a-4632-a306-1cab5bda852c:Models/MarioPeach/EyeMT
+    0458dd6c39f4b4e6dc8ef6b9bfc77138:
+        Name: EyeBallMT
+        MaterialInstance:
+            Material: 085e28e7-c741-4388-961b-455821227a86:Models/MarioPeach/EyeBallMT
+    3de0f0449029099bf671aa6f7063d2c0:
+        Name: EyePupilLeftMT
+        MaterialInstance:
+            Material: c0be9af3-9fd4-42cf-a26e-ce8e3c47fe02:Models/MarioPeach/EyePupilLeftMT
+    9c3e7636f767cc0c0c1064b2be38b915:
+        Name: EyePupilRightMT
+        MaterialInstance:
+            Material: 5519e715-11bc-422f-ad53-f7acf34d8cab:Models/MarioPeach/EyePupilRightMT
+    33bbfbc4f66d93830039006861cbbaa5:
+        Name: FaceMT
+        MaterialInstance:
+            Material: 72aff990-514d-4201-ad15-09a5138467dd:Models/MarioPeach/FaceMT
+    0c561b70d769beadf9e116091a2dd374:
+        Name: HairMT
+        MaterialInstance:
+            Material: 8ac8e17b-3006-4521-8748-05292689b20e:Models/MarioPeach/HairMT
+    52d7cd9b890b54b08dd73e3bc49d495d:
+        Name: HairFaceMT
+        MaterialInstance:
+            Material: 29445f57-143d-4068-852f-9f6a51f5e626:Models/MarioPeach/HairFaceMT
+    9fce8da68ebfb27ea23ee244302d68fb:
+        Name: EarringMT
+        MaterialInstance:
+            Material: 373ef460-3d31-42b5-9167-7144dbeafbeb:Models/MarioPeach/EarringMT
+    56752b87e8518c4882346f9e0752dd9a:
+        Name: HandMT
+        MaterialInstance:
+            Material: a48b9ef2-3ee3-4549-ae2d-64d01587f32a:Models/MarioPeach/HandMT
+    ef1bc055cdabeadc49319ea28bd39793:
+        Name: BodyMT
+        MaterialInstance:
+            Material: cc6aa610-3edd-4c0b-a7b3-a7bd4b7d3677:Models/MarioPeach/BodyMT
+    413703048d045c387f358f80dbfea188:
+        Name: BroachMT
+        MaterialInstance:
+            Material: 90bbd1c8-486f-4c0b-8c81-4a2c16d5b401:Models/MarioPeach/BroachMT
+    c157a2cb9d64a2bdef1595b243212ece:
+        Name: SkinMT
+        MaterialInstance:
+            Material: 110db2fa-3637-4b8f-a20c-b7c3a12586ef:Models/MarioPeach/SkinMT
+    692f84b777d1446e9a6ec4a71887bdd6:
+        Name: CapMT
+        MaterialInstance:
+            Material: 0ac7a761-d28e-4479-8d76-2fc34b16eb35:Models/MarioPeach/CapMT
+Modifiers: {}
+~SourceHashes:
+    bfda8edb80b825a3085b1dc760f384b9~../../../../../../modelos_proyecto/Escenario/Mario/Mario (Peach)/MarioPeach.FBX: d8980ecbd6fd1e1854fb0149bf857be4

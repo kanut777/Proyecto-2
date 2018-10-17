@@ -1,0 +1,7 @@
+!Texture
+Id: cc873184-6a90-46eb-9a87-0d2086e40158
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: ../../../../../../modelos_proyecto/Escenario/Spiny/togezo.png
+Type: !ColorTextureType
+    ColorKeyColor: {R: 255, G: 0, B: 255, A: 255}

@@ -1,0 +1,8 @@
+!Texture
+Id: 9c9c932a-0ba9-4fce-b029-188e97c45b1e
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: "../../../../../../modelos_proyecto/Escenario/Piraña Tuberia/packun_skin_2.png"
+Type: !ColorTextureType
+    ColorKeyColor: {R: 255, G: 0, B: 255, A: 255}
+    PremultiplyAlpha: false

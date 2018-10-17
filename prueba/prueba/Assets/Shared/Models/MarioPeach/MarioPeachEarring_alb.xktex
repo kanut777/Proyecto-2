@@ -1,0 +1,8 @@
+!Texture
+Id: 3f14e684-52ad-421e-96d4-4633ff4fdb80
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: ../../../../../../modelos_proyecto/Escenario/Mario/Mario (Peach)/images/MarioPeachEarring_alb.png
+Type: !ColorTextureType
+    ColorKeyColor: {R: 255, G: 0, B: 255, A: 255}
+    PremultiplyAlpha: false

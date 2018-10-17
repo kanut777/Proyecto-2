@@ -1,0 +1,19 @@
+!Model
+Id: 37554a46-f017-442e-a726-419bc84599f6
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: ../../../../../modelos_proyecto/bowsette/pipe.fbx
+Skeleton: null
+PivotPosition: {X: 0.0, Y: 0.0, Z: 0.0}
+Materials:
+    c1d25008ad58ed0f3a78427e5d19b261:
+        Name: Material.001
+        MaterialInstance:
+            Material: 8d02fd4b-3719-4077-9605-a8952949fd32:Models/Material.001_2
+    d55277003b233b8a678c2c6c0a2863d4:
+        Name: mesh0043mat
+        MaterialInstance:
+            Material: 4469077f-692b-449c-8f44-1d99f253ba17:Models/mesh0043mat
+Modifiers: {}
+~SourceHashes:
+    efa605656b3d0c94f6568b59a766bb15~../../../../../modelos_proyecto/bowsette/pipe.fbx: 5feb8c868235b9e9609a9ff1a270953d

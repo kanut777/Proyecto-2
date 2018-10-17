@@ -1,0 +1,16 @@
+!Model
+Id: b8c6ffc8-a096-464f-b54f-e1786e599a6c
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: "../../../../../../modelos_proyecto/Escenario/piraña sin tuberia/PeteyPiranha_High_ColladaMax.fbx"
+Skeleton: null
+PivotPosition: {X: 0.0, Y: 0.0, Z: 0.0}
+Materials:
+    b9ffbefd5d38e73ca6ef74eef34c7ead:
+        Name: Material
+        MaterialInstance:
+            Material: 7da23ee0-2110-46e6-86ab-a98f8aa4f81e:Models/Planta sin tubo/Material
+Modifiers: {}
+~SourceHashes:
+    ? "46e8245e58d4d3debbf53a20b063fe5d~../../../../../../modelos_proyecto/Escenario/piraña sin tuberia/PeteyPiranha_High_ColladaMax.fbx"
+    : 96880c64eb41000ea686cec7648b3f0b

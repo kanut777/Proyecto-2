@@ -1,0 +1,8 @@
+!Texture
+Id: 80a2a7e0-ea23-4606-96d1-bdb9215f58e4
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: "../../../../../../modelos_proyecto/Escenario/Piraña Tuberia/packun_stem_1.png"
+Type: !ColorTextureType
+    ColorKeyColor: {R: 255, G: 0, B: 255, A: 255}
+    PremultiplyAlpha: false

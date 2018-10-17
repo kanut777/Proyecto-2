@@ -1,0 +1,15 @@
+!Model
+Id: c54ba93b-9ecf-4e5e-8c35-a01c923ac8e3
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: ../../../../../modelos_proyecto/cilindro/cilindro.fbx
+Skeleton: null
+PivotPosition: {X: 0.0, Y: 0.0, Z: 0.0}
+Materials:
+    52cd1e3a278a48f98a7f9284c974d318:
+        Name: Material
+        MaterialInstance:
+            Material: null
+Modifiers: {}
+~SourceHashes:
+    688be8b0a8bcee3e832388da3660b028~../../../../../modelos_proyecto/cilindro/cilindro.fbx: e5b3c0b52e97ce379e66e41fed81ae80

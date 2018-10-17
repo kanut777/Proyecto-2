@@ -1,0 +1,8 @@
+!Texture
+Id: d067cf21-b1c1-4214-835d-77f0f802aa44
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: ../../../../../modelos_proyecto/bill bala/bill.fbm/killer_shoulder.png
+Type: !ColorTextureType
+    ColorKeyColor: {R: 255, G: 0, B: 255, A: 255}
+    PremultiplyAlpha: false

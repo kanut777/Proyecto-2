@@ -1,0 +1,15 @@
+!Model
+Id: 558a448c-9f40-45b1-ba80-54f2122302b0
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: ../../../../../../../modelos_proyecto/boo/TeresaSonrojada/teresaBout.fbx
+Skeleton: null
+PivotPosition: {X: 0.0, Y: 0.0, Z: 0.0}
+Materials:
+    65b1566ca72ebabec80f2ee9ef4beb1d:
+        Name: teresa.2
+        MaterialInstance:
+            Material: 7eb4eea8-ab92-45e2-b58a-694f99dfc7f4:Models/boo/teresa/teresa.2
+Modifiers: {}
+~SourceHashes:
+    6f1fc2f633e358be293f53aece3c9fe2~../../../../../../../modelos_proyecto/boo/TeresaSonrojada/teresaBout.fbx: 4499fcdf84719e64c7cc053aa65f8156

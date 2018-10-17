@@ -1,0 +1,7 @@
+!Texture
+Id: b095ea8c-c2f9-4dcf-aad6-c2f0311d2aea
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: ../../../../../../../modelos_proyecto/Escenario/Boo/teresa.0.png
+Type: !ColorTextureType
+    ColorKeyColor: {R: 255, G: 0, B: 255, A: 255}

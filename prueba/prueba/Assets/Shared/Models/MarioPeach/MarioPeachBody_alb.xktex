@@ -1,0 +1,8 @@
+!Texture
+Id: 649f7060-a8eb-40df-826f-fd33a61d08ad
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: ../../../../../../modelos_proyecto/Escenario/Mario/Mario (Peach)/images/MarioPeachBody_alb.png
+Type: !ColorTextureType
+    ColorKeyColor: {R: 255, G: 0, B: 255, A: 255}
+    PremultiplyAlpha: false

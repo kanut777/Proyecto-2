@@ -1,0 +1,8 @@
+!Texture
+Id: f52dc6d6-6d18-4f64-a248-79a26a7e0eca
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: ../../../../../../modelos_proyecto/Escenario/Mario/Mario (Peach)/images/MarioEyeBall_alb.png
+Type: !ColorTextureType
+    ColorKeyColor: {R: 255, G: 0, B: 255, A: 255}
+    PremultiplyAlpha: false

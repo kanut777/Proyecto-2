@@ -1,0 +1,15 @@
+!Model
+Id: 86e933d0-d9ca-4b3c-a16e-1db49af145ec
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: ../../../../../../modelos_proyecto/Escenario/Spiny/togezo.fbx
+Skeleton: null
+PivotPosition: {X: 0.0, Y: 0.0, Z: 0.0}
+Materials:
+    e201fda4c26f3449b36dd08ee2d8a268:
+        Name: mat_togezo
+        MaterialInstance:
+            Material: 98ced173-1bfe-4037-8477-791422b86def:Models/Spiny/mat_togezo
+Modifiers: {}
+~SourceHashes:
+    01cdbc9cb3f6d7170e06503ed597790f~../../../../../../modelos_proyecto/Escenario/Spiny/togezo.fbx: d64388c8ca25d8c530617311307e732c

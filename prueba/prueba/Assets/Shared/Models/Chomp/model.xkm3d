@@ -1,0 +1,15 @@
+!Model
+Id: 5b54477c-68bb-40b6-9998-840c2b57b103
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: ../../../../../../modelos_proyecto/Escenario/Chomp/model.fbx
+Skeleton: null
+PivotPosition: {X: 0.0, Y: 0.0, Z: 0.0}
+Materials:
+    693b5dd97e44e2cd178c1357ce9a7b45:
+        Name: _
+        MaterialInstance:
+            Material: d4c87b6c-2e78-4e7a-b5d0-70b989cc722e:Models/Chomp/_
+Modifiers: {}
+~SourceHashes:
+    630df752b938812897a3227901d088b1~../../../../../../modelos_proyecto/Escenario/Chomp/model.fbx: 375fc828a412c5171856589887dcd290

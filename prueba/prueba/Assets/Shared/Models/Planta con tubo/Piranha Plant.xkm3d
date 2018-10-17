@@ -1,0 +1,75 @@
+!Model
+Id: 9b5c037a-a15b-4de4-b611-5acd9ab3d8ee
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: "../../../../../../modelos_proyecto/Escenario/Piraña Tuberia/Piranha Plant.obj"
+Skeleton: null
+PivotPosition: {X: 0.0, Y: 0.0, Z: 0.0}
+Materials:
+    33069c26459662fbf34cbca8c026a4d8:
+        Name: mat1
+        MaterialInstance:
+            Material: 9c53bcd9-8027-44ff-8ce3-533f1729160e:Models/Planta con tubo/mat1
+    888c899df8c00fc9978724df11415e89:
+        Name: mat2
+        MaterialInstance:
+            Material: 0f355ac8-de3a-4af4-9939-aeb5d7f6048f:Models/Planta con tubo/mat2
+    96bd70715757ef2a26a893ec208530a3:
+        Name: mat3
+        MaterialInstance:
+            Material: 9e75b5c5-867a-4a0e-afb7-facf2cca3b54:Models/Planta con tubo/mat3
+    5f91c0fc30a64b01d8dc8086f17f0bbf:
+        Name: mat4
+        MaterialInstance:
+            Material: c9d3f451-a200-430a-be8a-20040d7b51f0:Models/Planta con tubo/mat4
+    bde1681ebdfb08652fa0e178a54419ed:
+        Name: mat5
+        MaterialInstance:
+            Material: 540580b9-dc71-44e9-9680-72ce4905efa6:Models/Planta con tubo/mat5
+    a5ca0c2b3bcf359eb35301ebec7c675c:
+        Name: mat6
+        MaterialInstance:
+            Material: 6d1c1928-1664-45c2-b16b-28146d73f3f3:Models/Planta con tubo/mat6
+    b446f04c4f08efb5c504a5766c53c741:
+        Name: mat7
+        MaterialInstance:
+            Material: 81028f11-4284-4f1c-9bcc-fd9c9f01f37b:Models/Planta con tubo/mat7
+    c2edb64673533dad66e2af6b474ef7bf:
+        Name: mat8
+        MaterialInstance:
+            Material: b6fd7fea-ebab-450f-b124-2436088d08bc:Models/Planta con tubo/mat8
+    815aefe0a3ad8b34514b4e98d30c3cc6:
+        Name: mat9
+        MaterialInstance:
+            Material: 2723e1d1-8b2d-4aa5-8529-8c89dba57f8a:Models/Planta con tubo/mat9
+    b24a427220262c4cf8410fa2c945c070:
+        Name: mat10
+        MaterialInstance:
+            Material: 5c4df377-edb9-4d5d-8852-8f66810ad074:Models/Planta con tubo/mat10
+    8c4ad1bdec73f3b21332d3aef26e4166:
+        Name: mat11
+        MaterialInstance:
+            Material: e9ee9aef-c29c-43c2-8721-47bdee290575:Models/Planta con tubo/mat11
+    07647e81a2a297fc6b6da4e60fed4445:
+        Name: mat12
+        MaterialInstance:
+            Material: bfe28cae-232c-42f5-8b36-80e67fb440f3:Models/Planta con tubo/mat12
+    4d9ca03430005cca1b861c15cbb8e9e5:
+        Name: mat13
+        MaterialInstance:
+            Material: 0b213541-5994-4bc2-9661-2e569bad3e5b:Models/Planta con tubo/mat13
+    80562ed4409fda96eb039af3007f30c2:
+        Name: mat14
+        MaterialInstance:
+            Material: 29ed14d9-ba45-470a-b1eb-407d14e1a50d:Models/Planta con tubo/mat14
+    ac1c51e7761f1a60560643a4b801c99d:
+        Name: mat15
+        MaterialInstance:
+            Material: da25bf7c-6e1d-4caf-858a-d9f733aee82e:Models/Planta con tubo/mat15
+    87fed6eafc505def900840db294971a2:
+        Name: mat16
+        MaterialInstance:
+            Material: a9d6790a-6ac8-43e5-be03-5667b4462def:Models/Planta con tubo/mat16
+Modifiers: {}
+~SourceHashes:
+    "d7d96a8931e5a003bb14d9af603df9af~../../../../../../modelos_proyecto/Escenario/Piraña Tuberia/Piranha Plant.obj": 84a2680d5fe3881feb5a29843fde36a7

@@ -1,0 +1,15 @@
+!Model
+Id: 8c69e84d-d223-4fd0-9711-a3e622659182
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: ../../../../../../../modelos_proyecto/boo/TeresaLenguaAfuera/teresaAout.fbx
+Skeleton: null
+PivotPosition: {X: 0.0, Y: 0.0, Z: 0.0}
+Materials:
+    d6d33af0e6c2d26033b493c6a54fcd73:
+        Name: teresa.0
+        MaterialInstance:
+            Material: eec55ecd-5001-4788-88c3-e0b8cb20be58:Models/boo/boo3/teresa.0
+Modifiers: {}
+~SourceHashes:
+    28b8a4f56009bc42eb9b053c357deb49~../../../../../../../modelos_proyecto/boo/TeresaLenguaAfuera/teresaAout.fbx: 0543d10d571d0d360b3683a54e7c74d9

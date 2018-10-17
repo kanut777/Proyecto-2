@@ -1,0 +1,12 @@
+!MaterialAsset
+Id: 1a94ccc6-4922-42c9-ab8a-f88e8451bc0a
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Attributes:
+    Diffuse: !MaterialDiffuseMapFeature
+        DiffuseMap: !ComputeColor
+            Value: {R: 0.0102618225, G: 0.0296031777, B: 0.358290225, A: 1.0}
+    DiffuseModel: !MaterialDiffuseLambertModelFeature {}
+    Overrides:
+        UVScale: {X: 1.0, Y: 1.0}
+Layers: {}

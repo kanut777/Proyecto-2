@@ -1,0 +1,8 @@
+!Texture
+Id: 7b01c38c-589b-47e8-a347-4229aecc9b7d
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: ../../../../../modelos_proyecto/bill bala/bill.fbm/killer_shadow.png
+Type: !ColorTextureType
+    ColorKeyColor: {R: 255, G: 0, B: 255, A: 255}
+    PremultiplyAlpha: false

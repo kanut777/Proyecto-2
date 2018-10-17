@@ -1,0 +1,27 @@
+!Model
+Id: c71a912e-4290-460d-a990-e60a7c43a5ce
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: ../../../../../../modelos_proyecto/Escenario/Supercorona/Super_Crown.obj
+Skeleton: null
+PivotPosition: {X: 0.0, Y: 0.0, Z: 0.0}
+Materials:
+    3e6e3b398cc4107304f3aafdb2137f7c:
+        Name: crown_base
+        MaterialInstance:
+            Material: 2437ce50-5a74-499c-9c4d-abc7d0c84b38:Models/Supercorona/crown_base
+    f36a7260eec6bc51fd160d8277d277d6:
+        Name: crown_eyes
+        MaterialInstance:
+            Material: 0392ec9c-5f2b-41c0-9ccd-6124aae19a87:Models/Supercorona/crown_eyes
+    bdbd56bdccefe9c5ad15200e4c6bc132:
+        Name: crown_soft_part
+        MaterialInstance:
+            Material: e70b8904-13b8-4be1-b649-e521e434f804:Models/Supercorona/crown_soft_part
+    62af8b6483989a3b070690cf1af53f70:
+        Name: crown_spots
+        MaterialInstance:
+            Material: 951d3e98-f17f-4e4b-b11f-6bc837fd3ad7:Models/Supercorona/crown_spots
+Modifiers: {}
+~SourceHashes:
+    177eac984296a1d0a996a24c293c3e9e~../../../../../../modelos_proyecto/Escenario/Supercorona/Super_Crown.obj: 72b004c4e5b166e5b1e9ce650390dea5

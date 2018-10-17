@@ -1,0 +1,7 @@
+!Texture
+Id: 443ca993-5d61-41ef-a3d4-48ccc4e1c1d3
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: ../../../../../modelos_proyecto/pared.png
+Type: !ColorTextureType
+    ColorKeyColor: {R: 255, G: 0, B: 255, A: 255}

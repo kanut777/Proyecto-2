@@ -1,0 +1,15 @@
+!Model
+Id: 9e6388ef-f21a-4ee5-956a-dcd81df3fc8f
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: ../../../../../../modelos_proyecto/Escenario/Torch/nohd/wall-torch.fbx
+Skeleton: null
+PivotPosition: {X: 0.0, Y: 0.0, Z: 0.0}
+Materials:
+    9245bcd1b8d2e9db4f207af854cd5c25:
+        Name: wall-torch-mat
+        MaterialInstance:
+            Material: 092b2ffb-c8d8-41da-acb9-0cbfd4a2e8cb:Models/Artorcha/wall-torch-mat
+Modifiers: {}
+~SourceHashes:
+    fb3b438963df6e7c1b430b878bcca706~../../../../../../modelos_proyecto/Escenario/Torch/nohd/wall-torch.fbx: 7fbd4de5fe7264326898e120430f3a08

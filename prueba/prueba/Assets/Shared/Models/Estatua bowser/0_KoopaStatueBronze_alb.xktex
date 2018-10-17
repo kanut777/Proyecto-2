@@ -1,0 +1,8 @@
+!Texture
+Id: 284ea9e8-3918-4a0c-abf5-384ca707d62a
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: ../../../../../../modelos_proyecto/Escenario/Bowser statue/textures/0_KoopaStatueBronze_alb.jpg
+Type: !ColorTextureType
+    ColorKeyColor: {R: 255, G: 0, B: 255, A: 255}
+    PremultiplyAlpha: false

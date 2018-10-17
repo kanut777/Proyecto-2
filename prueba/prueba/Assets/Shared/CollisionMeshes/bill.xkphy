@@ -1,0 +1,20 @@
+!ColliderShapeAsset
+Id: 96ea511b-809b-444e-ba19-cb3b6142d3b3
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+ColliderShapes:
+    be1dc279349425a1c914ceb6b0327ec4: !ConvexHullColliderShapeDesc
+        ConvexHulls: null
+        ConvexHullsIndices: null
+        Model: 8e6dcb25-9739-492c-b5a1-16e50b8ce94b:Models/bill
+        LocalOffset: {X: 0.0, Y: 0.0, Z: 0.0}
+        LocalRotation: {X: 0.0466221534, Y: 0.2886268, Z: 0.180274278, W: 0.939160347}
+        SimpleWrap: true
+        Scaling: {X: 1.0, Y: 1.0, Z: 1.0}
+        Depth: 10
+        PosSampling: 10
+        AngleSampling: 10
+        PosRefine: 5
+        AngleRefine: 5
+        Alpha: 0.01
+        Threshold: 0.01

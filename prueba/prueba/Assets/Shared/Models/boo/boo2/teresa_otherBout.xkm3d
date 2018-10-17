@@ -1,0 +1,15 @@
+!Model
+Id: 6871a3d6-26a4-4493-9ad1-b26e12be02e8
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: ../../../../../../../modelos_proyecto/boo/booSonrisaDemoniaca/teresa_otherBout.fbx
+Skeleton: null
+PivotPosition: {X: 0.0, Y: 0.0, Z: 0.0}
+Materials:
+    67e93ab2b2132181cd21257d1358b3e7:
+        Name: teresa_otherB
+        MaterialInstance:
+            Material: 60c26679-5338-4100-bed8-22163af370f1:Models/boo/boo2/teresa_otherB_2
+Modifiers: {}
+~SourceHashes:
+    2fff7048f35b8baeff9e2e5e688c9aca~../../../../../../../modelos_proyecto/boo/booSonrisaDemoniaca/teresa_otherBout.fbx: 1e3fb09c96629b495a2653ad64940222
